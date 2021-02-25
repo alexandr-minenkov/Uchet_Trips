@@ -1,0 +1,14 @@
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmWorkInfGrid.resources
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmAddInf.resources
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmChoose.resources
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmEnter.resources
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmWelcome.resources
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\Uchet_Kurs.vcxproj.GenerateResource.cache
+D:\Документы\Курсовые работы\3 сем\Uchet_Kurs\Uchet_Kurs\x64\Debug\Uchet_Kurs.vcxprojAssemblyReference.cache
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\Uchet_Kurs.vcxprojAssemblyReference.cache
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmWorkInfGrid.resources
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmAddInf.resources
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmChoose.resources
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmEnter.resources
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\UchetKurs.FrmWelcome.resources
+D:\Документы\Курсовые\Uchet_Kurs\Uchet_Kurs\x64\Debug\Uchet_Kurs.vcxproj.GenerateResource.cache
