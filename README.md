@@ -12,3 +12,6 @@ The program that implements accouting a foreign business trips of the company
 ![image](https://user-images.githubusercontent.com/60778358/131937511-f42d2197-a23f-4e12-a7cb-f0025fdc06ef.png)
 
 ![image](https://user-images.githubusercontent.com/60778358/131937538-58d44118-0eaa-4272-9b9e-8d0925c3f95c.png)
+
+![image](https://user-images.githubusercontent.com/60778358/131937721-8988fcf4-c2a8-494b-9922-5614b623e0c2.png)
+
